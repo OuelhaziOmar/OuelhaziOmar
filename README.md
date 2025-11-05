@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm Omar Ouelhazi<br>**Data Scientist** | Python,Times Series, NLP <br>Studied Data Science for Business<br>At Higher Institute of Management of Tunis(ISG tunis)<br>Currently Interested in Data analytics and Dataviz<br>Passionate about turning data into actionable insights and predictive solutions.<br>⛽⛽Fueling Decisions with data#Data speaks. I tell its story<br>
+# #Hi there 👋, I'm Omar Ouelhazi<br>**#Data Scientist** | Python,Times Series, NLP <br>#Studied Data Science for Business<br>at Higher Institute of Management of Tunis(ISG tunis)<br>#Currently Interested in Data analytics and Dataviz<br>#Passionate about turning data into actionable insights<br> and predictive solutions.<br>#Fueling Decisions with data ⛽⛽<br>#Data speaks. I tell its story<br>
 
 
 ## 🌐 Socials:
